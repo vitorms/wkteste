@@ -1,0 +1,3 @@
+- Utilizar o arquivo teste.ini juntamente com o executável para configurações da base de dados à ser utilizada.
+
+- Caso desejar compilar o projeto, necessário instalar o componente Zeos. Foi necessário pois com o dbExpress da minha verão do Delphi não tinha compatibilidade com a versão do meu MySQL. Link para download do componente: https://drive.google.com/file/d/1nk26oB7hyhxG8BijGniqyF2uDdFZSYFB/view?usp=sharing
